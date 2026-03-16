@@ -33,3 +33,4 @@ C:\Users\D1ff\source\repos\CollegeSchedule_Konradi\CollegeSchedule_Konradi\obj\D
 C:\Users\D1ff\source\repos\CollegeSchedule_Konradi\CollegeSchedule_Konradi\obj\Debug\net8.0\CollegeSchedule_Konradi.pdb
 C:\Users\D1ff\source\repos\CollegeSchedule_Konradi\CollegeSchedule_Konradi\obj\Debug\net8.0\CollegeSchedule_Konradi.genruntimeconfig.cache
 C:\Users\D1ff\source\repos\CollegeSchedule_Konradi\CollegeSchedule_Konradi\obj\Debug\net8.0\ref\CollegeSchedule_Konradi.dll
+C:\Users\D1ff\source\repos\CollegeSchedule_Konradi\CollegeSchedule_Konradi\obj\Debug\net8.0\CollegeSchedule_Konradi.sourcelink.json
