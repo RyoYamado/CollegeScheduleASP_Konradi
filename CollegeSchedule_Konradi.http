@@ -1,0 +1,6 @@
+@CollegeSchedule_Konradi_HostAddress = http://localhost:5085
+
+GET {{CollegeSchedule_Konradi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
