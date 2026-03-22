@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CollegeSchedule_Konradi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa85ecd413fd921cc7f77fb6c8554bc077c3f57e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb213919b305d7a429d360e0b9a08e0d08c6db6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CollegeSchedule_Konradi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CollegeSchedule_Konradi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
